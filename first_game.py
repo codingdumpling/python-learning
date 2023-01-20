@@ -1,5 +1,5 @@
 import random
-print("welcome to rock paper scisssors\n\n")
+print("welcome to rock paper scissors\n\n")
 print("r is for rock\np is for paper\ns is for scissors")
 choices = ['r', 'p', 's']
 computer_choice = random.choice(choices)
